@@ -133,3 +133,8 @@ hr{
 .footer .link{
     color: white;
 }
+
+.footer-header{
+    font-weight: bold;
+    font-weight: larger;
+}
