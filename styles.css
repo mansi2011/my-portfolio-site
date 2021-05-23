@@ -69,6 +69,11 @@ hr{
     color: white;
 }
 
+.navigation a:hover{
+    color: var(--off-white);
+    font-weight: lighter;
+}
+
 .nav-pills{
     text-align: right;
 }
@@ -137,4 +142,8 @@ hr{
 .footer-header{
     font-weight: bold;
     font-weight: larger;
+}
+
+.link-icon{
+    padding: 0rem 0.5rem;
 }
